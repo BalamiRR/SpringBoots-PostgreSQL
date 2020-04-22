@@ -1,0 +1,10 @@
+app: 
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/newDatabase
+    username: root
+    password: 248663735
+    pool-size: 30
+    
+#spring:
+#  flyway:
+#    check-location: false 

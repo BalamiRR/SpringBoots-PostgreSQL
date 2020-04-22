@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "app.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.jdbc-url'"
+  },
+  {
+    "name": "app.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.username'"
+  },
+  {
+    "name": "app.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.password'"
+  },
+  {
+    "name": "app.datasource.pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.pool-size'"
+  },
+  {
+    "name": "app.datasource.pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.pool-size'"
+  }
+]}
