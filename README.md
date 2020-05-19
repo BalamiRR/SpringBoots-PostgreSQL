@@ -1,2 +1,5 @@
 # SpringBoots-PostgreSQL
-Spring Boot + GET, POST, PUT, DELETE + PostgreSQL
+
+
+
+Spring Boot - PostgreSQL projects => GET, POST, PUT, DELETE + PostgreSQL
